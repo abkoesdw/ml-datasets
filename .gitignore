@@ -26,10 +26,6 @@ var/
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
-<<<<<<< HEAD
-examples/testtt.py
-=======
->>>>>>> 4d55a6fcdae3650319af60628f61b76f159bf182
 *.egg-info/
 .installed.cfg
 *.egg
